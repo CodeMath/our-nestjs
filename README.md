@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+* NestJS를 공부한 흔적 링크: [스터디 기록](https://www.notion.so/jadecon/NestJS-556fb776fa6e4616b5cc6dabbd0c64c6?pvs=4)
+
 ## Installation
 
 ```bash
